@@ -8,7 +8,7 @@ https://github.com/Ethantc2402/SpotifyPlaylistGen/tree/sections_analysis
 
 
 
-Screenshot of the main page:
+Screenshot of the main page of the Spotify Playlist Generator web app:
 
 
 <img width="600" height="300" alt="Spotify-Playlist-Generator-Screenshot" src="https://github.com/user-attachments/assets/73869862-843f-42f8-82f4-a86b7a503eaf" />
